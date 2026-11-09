@@ -1,0 +1,6 @@
+title: Claude Code UI design kit
+description: DESIGN.md template, ban list, prompts and a review skill that stop Claude Code and Codex making generic-looking websites.
+theme: jekyll-theme-primer
+exclude:
+  - scripts
+  - copy-acceptance
